@@ -1,1 +1,3 @@
 Developer, designer, and rocketeer out of Houston/New York/the Bay Area depending on where life takes me :)
+
+I've been interested in math and science for forever, so most of my programming is based on that. That often manifests in the form of interactive articles - [From Data to Dumps - Food Waste Metrics](https://datatodumpsters.vercel.app/), a [simulation/proof of the ideal gas law](https://ideal-gas-law.vercel.app/), and [an explanation of Prospect Theory](https://prospecttheory.vercel.app/) to list a few. My biggest personal project is still probably [a library I wrote](https://github.com/rkuhlf/rocket-simulation) for simulating hybrid rocket flight. [My portfolio](https://rileykuhlman.vercel.app/) has a more exhaustive listing of projects I've been involved in.
